@@ -4,7 +4,7 @@ This repository holds the device support files for the iOS, and I will update it
 
 ## Usage
 
-See docs: [https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-files/](https://ighibli.github.io/2017/03/28/Could-not-locate-device-support-files/)
+See docs: [https://github.com/Q14/iOS-DeviceSupport/wiki](https://github.com/Q14/iOS-DeviceSupport/wiki)
 
 Below command will try to unzip all new device support files to `/Applications/Xcode.app`.
 
