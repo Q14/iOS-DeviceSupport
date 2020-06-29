@@ -1,3 +1,5 @@
+[中文文档](https://github.com/Q14/iOS-DeviceSupport/blob/master/README-%E4%B8%AD%E6%96%87.md)
+
 # iOS-DeviceSupport
 
 This repository holds the device support files for the iOS, and I will update it regularly.
