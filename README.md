@@ -97,5 +97,15 @@ optional arguments:
    * 13.4 (FromXcode11.5 (11E608c)) `2020/05/22`
    * 13.5 (FromXocde_Beta_11.5) `2020/05/16`
    * 13.5 (FromXcode11.5 (11E608c)) `2020/05/22`
+   * 13.5 (FromXcode_12_beta_2_xip) `2020/07/10`
+   * 13.6 (FromXcode_12_beta_2_xip `2020/07/10`
+   * 13.6 (FromXcode_12_beta_4_xip `2020/08/07`
+   * 13.7 (FromXcode_11_7_xip `2020/09/02`
 7. iOS14
-   * 14.0 (From Xcode_12_beta.xip) `2020/06/24`
+   * 14.0 (FromXcode_12_beta.xip) `2020/06/23`
+   * 14.0 (FromXcode_12_beta_2_xip `2020/07/10`
+   * 14.0 (FromXcode_12_beta_3_xip `2020/07/24`
+   * 14.0 (FromXcode_12_beta_4_xip `2020/08/07`
+   * 14.0 (FromXcode_12_beta_5_xip `2020/08/18`
+   * 14.0 (FromXcode_12_beta_6_xip `2020/08/28`
+
