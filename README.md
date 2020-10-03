@@ -93,6 +93,7 @@ optional arguments:
    * 13.2 (FromXcode_11.2.1_GM_Seed) `2019/11/11`
    * 13.2 (FromXcode11.2.1(11B500)) `2019/11/15`
    * 13.2 (FromXcode11.3(11C29)) `2019/12/23`
+   * 13.3 (FromXcode_12_GM_seed_xip) `2020/09/16`
    * 13.4 (FromXcode_11.4_beta_3_xip) `2020/03/19`
    * 13.4 (FromXcode11.5 (11E608c)) `2020/05/22`
    * 13.5 (FromXocde_Beta_11.5) `2020/05/16`
@@ -101,6 +102,7 @@ optional arguments:
    * 13.6 (FromXcode_12_beta_2_xip `2020/07/10`
    * 13.6 (FromXcode_12_beta_4_xip `2020/08/07`
    * 13.7 (FromXcode_11_7_xip `2020/09/02`
+   * 13.7 (FromXcode_12_GM_seed_xip) `2020/09/16`
 7. iOS14
    * 14.0 (FromXcode_12_beta.xip) `2020/06/23`
    * 14.0 (FromXcode_12_beta_2_xip `2020/07/10`
@@ -108,4 +110,7 @@ optional arguments:
    * 14.0 (FromXcode_12_beta_4_xip `2020/08/07`
    * 14.0 (FromXcode_12_beta_5_xip `2020/08/18`
    * 14.0 (FromXcode_12_beta_6_xip `2020/08/28`
+   * 14.0 (FromXcode_12_GM_seed_xip) `2020/09/16`
+   * 14.0 (FromXcode_12.2_beta_xip) `2020/09/21`
+   * 14.2 (FromXcode_12.2_beta_xip) `2020/09/21`
 
