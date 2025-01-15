@@ -1,11 +1,10 @@
 ### 遇到的问题 
-##### 一不小心手机自动升级到到系统iOS14.0  作为一名iOS 开发者就有点悲剧了 因为目前  Xcode 14.0 正式版还没出 / 即使Xcode12.0已经更新因为要和团队成员保持Xcode 版本一致 所以总会有一段时间不能用自己的手机真机调试  报错如图
-
-![error2.png](https://upload-images.jianshu.io/upload_images/576060-991dfcc152bcfba5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+1. 低版本Xcode 运行高版本iOS 系统
+2. 高版本系统运行低版本iOS 系统， 例如Xcode 16 上跑 iOS 14 , 13系统（目前 Xcode16 不支持iOS 12 13 14 系统需要自行下载）
 
 
 ### 解决方案
-1. 下载Xcode最新系统支持真机调试包 [【Xcode 最新DeviceSupport下载链接 】](https://github.com/Q14/iOS-DeviceSupport)
+1. 下载Xcode系统支持真机调试包 [【Xcode 最新DeviceSupport下载链接 】](https://github.com/Q14/iOS-DeviceSupport)
 
 2. [点击下载最新的DeviceSupport](https://github.com/Q14/iOS-DeviceSupport) 然后 
   *   下载后点击解压调试包 
